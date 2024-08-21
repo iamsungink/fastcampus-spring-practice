@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.springframework:spring-context:5.3.19")
+    implementation("org.springframework:spring-webmvc:5.3.19")
 
     testImplementation("org.springframework:spring-test:5.3.8")
     testImplementation(platform("org.junit:junit-bom:5.10.0"))
