@@ -1,7 +1,6 @@
-package com.fastcampus.oop.service;
+package com.fastcampus.springpractice.service;
 
-import com.fastcampus.oop.logic.BubbleSort;
-import com.fastcampus.oop.logic.JavaSort;
+import com.fastcampus.springpractice.logic.BubbleSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

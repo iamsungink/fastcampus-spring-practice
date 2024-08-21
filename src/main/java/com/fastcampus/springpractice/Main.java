@@ -1,7 +1,7 @@
-package com.fastcampus.oop;
+package com.fastcampus.springpractice;
 
-import com.fastcampus.oop.logic.JavaSort;
-import com.fastcampus.oop.logic.Sort;
+import com.fastcampus.springpractice.logic.JavaSort;
+import com.fastcampus.springpractice.logic.Sort;
 
 import java.util.Arrays;
 

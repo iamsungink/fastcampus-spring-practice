@@ -1,6 +1,6 @@
-package com.fastcampus.oop;
+package com.fastcampus.springpractice;
 
-import com.fastcampus.oop.logic.JavaSort;
+import com.fastcampus.springpractice.logic.JavaSort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
