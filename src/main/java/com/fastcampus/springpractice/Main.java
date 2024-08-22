@@ -11,10 +11,10 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-        ApplicationContext context = new AnnotationConfigApplicationContext(Config.class);
-        SortService sortService = context.getBean(SortService.class);
-
-        System.out.println("[result] " + sortService.doSort(Arrays.asList(args)));
+//        ApplicationContext context = new AnnotationConfigApplicationContext(Config.class);
+//        SortService sortService = context.getBean(SortService.class);
+//
+//        System.out.println("[result] " + sortService.doSort(Arrays.asList(args)));
 
     }
 }
